@@ -50,4 +50,4 @@ try:
                 break
 
 except:
-    print("Tabriklaymiz, siz darhol hayotdan tark etdingiz.")
+    print("Tabriklaymiz, siz srazi hayotdan tark etdingiz.")
